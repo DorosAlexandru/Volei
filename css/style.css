@@ -9,7 +9,7 @@ img {
 }
 
 #b1 {
-    background-color: rgb(8, 0, 255);
+    background-color: blue;
 }
 
 header {
@@ -33,15 +33,15 @@ li {
     color: blue;
 }
 
-#a1, #a2, #a3 {
-    text-decoration-color: yellow;
-    color: yellow;
-}
-
 #p2, #p3, #p4, #p5 {
     color: yellow;
 }
 
 h3 {
+    color: yellow;
+}
+
+#z1, #z2, #z3 {
+    text-decoration-color: yellow;
     color: yellow;
 }
