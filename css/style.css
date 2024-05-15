@@ -1,3 +1,30 @@
-body {
-    background-color: red;
+img {
+    height: 250px;
+    width: 350px;
+}
+
+#i1 {
+    height: 250px;
+    width: 300px;
+}
+
+#b1 {
+    background-color: rgb(8, 0, 255);
+}
+
+header {
+    text-align: center;
+}
+
+#a1, #a2, #a3 {
+    text-decoration-color: yellow;
+    color: yellow;
+}
+
+h5 {
+   color: white;
+}
+
+#p1 {
+    color: white;
 }
