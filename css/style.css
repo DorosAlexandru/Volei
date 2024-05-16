@@ -50,3 +50,11 @@ h3 {
     text-decoration-color: white;
     color: white;
 }
+
+#b1 {
+ background-color: yellow;
+}
+
+#tab, #tab1 {
+    color: blue;
+}
